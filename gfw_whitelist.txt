@@ -383,6 +383,7 @@
 ||netease.com
 ||netease.im
 ||netseer.com
+||nga.cn
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
