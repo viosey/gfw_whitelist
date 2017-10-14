@@ -134,6 +134,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||buka.cn
 ||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
