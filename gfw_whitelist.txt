@@ -134,6 +134,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||buka.cn
 ||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
@@ -218,6 +219,7 @@
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
+||fgowiki.com
 ||fir.im
 ||flow.ci
 ||freebuf.com
@@ -267,6 +269,7 @@
 ||iapps.im
 ||iaweg.com
 ||ibruce.info
+||ibuka.cn
 ||iciba.com
 ||ifanr.com
 ||ifanr.in
@@ -383,6 +386,7 @@
 ||netease.com
 ||netease.im
 ||netseer.com
+||nga.cn
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
