@@ -82,6 +82,7 @@
 ||acfun.cn
 ||acfun.tv
 ||acg.tv
+||acggate.net
 ||acgvideo.com
 ||aday01.com
 ||adf.ly
@@ -223,6 +224,7 @@
 ||freebuf.com
 
 ! G
+||galstars.net
 ||gamersky.com
 ||ganji.com
 ||gank.io
@@ -230,6 +232,7 @@
 ||getfedora.org
 ||getui.com
 ||gfan.com
+||gitclub.cn
 ||gitee.com
 ||gmw.cn
 ||golaravel.com
@@ -383,6 +386,7 @@
 ||netease.com
 ||netease.im
 ||netseer.com
+||nga.cn
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
@@ -411,6 +415,7 @@
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
+||ppgame.com
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -548,6 +553,7 @@
 ||waerfa.com
 ||wandoujia.com
 ||wanmei.com
+||web.guoweishu.net
 ||weibo.com
 ||weidunewtab.com
 ||weiosx.com
@@ -597,6 +603,7 @@
 
 ! Z
 ||zcool.com.cn
+||zh.moegirl.org
 ||zhan.com
 ||zhangyao.name
 ||zhaojin97.cn

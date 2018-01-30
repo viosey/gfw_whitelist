@@ -17,7 +17,7 @@ Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoPr
 
 ## Usagage of AutoProxy-Editor.jar
 
-`java -jar AutoProxy-Editor.jar` to add domains.
+`java -jar AutoProxy-Editor.jar gfw_whitelist.txt` to add domains into `gfw_whitelist.txt`
 
 [AutoProxy Rules](https://github.com/neko-dev/gfw_whitelist/blob/master/AutoProxy_Rules.md)
 
