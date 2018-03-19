@@ -511,6 +511,7 @@
 ||thepaper.cn
 ||thinkphp.cn
 ||tianya.cn
+||tianyancha.com
 ||tietuku.com
 ||tigerlust.com
 ||tingyun.com
