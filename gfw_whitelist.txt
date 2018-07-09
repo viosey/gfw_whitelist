@@ -19,6 +19,7 @@
 
 ! 0
 ||0o0.ooo
+||005.tv
 
 ! 1
 ||10010.com
@@ -58,6 +59,7 @@
 
 ! 4
 ||4399.com
+||4006024680.com
 
 ! 5
 ||51.la
@@ -90,6 +92,7 @@
 ||aday01.com
 ||adf.ly
 ||aicheren.com
+||aifou.cn
 ||aipai.com
 ||aiwebcom.com
 ||aixifan.com
@@ -236,6 +239,7 @@
 
 ! F
 ||fang.com
+||fantasy.tv
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
@@ -337,6 +341,7 @@
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
+||jmydm.com
 ||jomodns.com
 ||joyyang.com
 
@@ -587,6 +592,7 @@
 ||ustclug.org
 ||uuu.moe
 ||uxengine.net
+||uzer.me
 
 ! V
 ||v2ex.com
@@ -660,6 +666,7 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zealer.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
