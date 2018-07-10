@@ -74,6 +74,7 @@
 ||6.cn
 
 ! 7
+||71.am
 ||7k7k.com
 ||7to.cn
 
@@ -318,6 +319,7 @@
 ||iplaysoft.com
 ||iqing.in
 ||iqiyi.com
+||irs01.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -341,9 +343,11 @@
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
+||jixunjsq.com
 ||jmydm.com
 ||jomodns.com
 ||joyyang.com
+||jseea.cn
 
 ! K
 ||kafan.cn
@@ -361,6 +365,7 @@
 
 ! L
 ||lackar.com
+||landiannews.com
 ||lany.me
 ||lanyus.com
 ||laravel-china.org
@@ -388,6 +393,7 @@
 ||lyjsws.com
 
 ! M
+||mafengwo.cn
 ||mail4geek.com
 ||maoyan.com
 ||masadora.net
@@ -469,6 +475,7 @@
 ||qcwgg.com
 ||qdaily.com
 ||qdan.me
+||qeeyou.cn
 ||qeeyou.com
 ||qhimg.com
 ||qhmsg.com
@@ -479,6 +486,7 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiyipic.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
