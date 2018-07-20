@@ -24,6 +24,7 @@
 ! 1
 ||10010.com
 ||10086.cn
+||10besty.com
 ||114la.com
 ||115.com
 ||126.com
@@ -131,10 +132,13 @@
 ||bankcomm.com
 ||baozoumanhua.com
 ||battlenet.com.cn
+||bcy.net
+||bcyimg.com
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||betop-cn.com
 ||bilibili.com
 ||biligame.com
 ||biligame.net
