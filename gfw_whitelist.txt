@@ -95,6 +95,7 @@
 ||adf.ly
 ||aicheren.com
 ||aifou.cn
+||aihuishou.com
 ||aipai.com
 ||aiwebcom.com
 ||aixifan.com
@@ -114,6 +115,7 @@
 ||amazon.cn
 ||anjuke.com
 ||anquan.org
+||anyisheng.com
 ||anzhi.com
 ||appgame.com
 ||appinn.com
@@ -125,6 +127,7 @@
 ||autohome.com.cn
 
 ! B
+||b2bname.com
 ||baidu.com
 ||baiducontent.com
 ||baidupcs.com
@@ -256,6 +259,7 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||gcloud.cn
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -362,6 +366,7 @@
 ||kf5.com
 ||kmf.com
 ||knownsec.com
+||koolshare.cn
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
@@ -376,12 +381,15 @@
 ||lbesec.com
 ||le.com
 ||leancloud.cn
+||leju.com
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
 ||liaoxuefeng.com
+||liepin.com
+||likuso.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
@@ -390,6 +398,7 @@
 ||lofter.com
 ||lolinet.com
 ||longzhu.com
+||lotpc.com
 ||lucifr.com
 ||luojuly.cn
 ||luoo.net
@@ -467,6 +476,7 @@
 ||phonegap100.com
 ||phpcomposer.com
 ||pingwest.com
+||pixcn.cn
 ||playubuntu.cn
 ||plu.cn
 ||pptv.com
@@ -570,6 +580,7 @@
 ||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
+||testv.cn
 ||tgbus.com
 ||thepaper.cn
 ||thinkphp.cn
@@ -663,6 +674,7 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yiban.cn
 ||yiche.com
 ||yinxiang.com
 ||ykimg.com
@@ -687,8 +699,10 @@
 ||zhihu.com
 ||zhimg.com
 ||zhiziyun.com
+||zhsho.com
 ||zhujike.com
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zontay.cn
 ||zuk.cn
