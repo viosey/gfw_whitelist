@@ -17,12 +17,16 @@
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
+||cn
+
 ! 0
 ||0o0.ooo
+||005.tv
 
 ! 1
 ||10010.com
 ||10086.cn
+||10besty.com
 ||114la.com
 ||115.com
 ||126.com
@@ -58,6 +62,7 @@
 
 ! 4
 ||4399.com
+||4006024680.com
 
 ! 5
 ||51.la
@@ -72,6 +77,7 @@
 ||6.cn
 
 ! 7
+||71.am
 ||7k7k.com
 ||7to.cn
 
@@ -90,6 +96,8 @@
 ||aday01.com
 ||adf.ly
 ||aicheren.com
+||aifou.cn
+||aihuishou.com
 ||aipai.com
 ||aiwebcom.com
 ||aixifan.com
@@ -109,6 +117,7 @@
 ||amazon.cn
 ||anjuke.com
 ||anquan.org
+||anyisheng.com
 ||anzhi.com
 ||appgame.com
 ||appinn.com
@@ -120,6 +129,7 @@
 ||autohome.com.cn
 
 ! B
+||b2bname.com
 ||baidu.com
 ||baiducontent.com
 ||baidupcs.com
@@ -127,10 +137,13 @@
 ||bankcomm.com
 ||baozoumanhua.com
 ||battlenet.com.cn
+||bcy.net
+||bcyimg.com
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||betop-cn.com
 ||bilibili.com
 ||biligame.com
 ||biligame.net
@@ -236,6 +249,7 @@
 
 ! F
 ||fang.com
+||fantasy.tv
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
@@ -247,6 +261,7 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||gcloud.cn
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -314,6 +329,7 @@
 ||iplaysoft.com
 ||iqing.in
 ||iqiyi.com
+||irs01.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -337,8 +353,11 @@
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
+||jixunjsq.com
+||jmydm.com
 ||jomodns.com
 ||joyyang.com
+||jseea.cn
 
 ! K
 ||kafan.cn
@@ -349,6 +368,7 @@
 ||kf5.com
 ||kmf.com
 ||knownsec.com
+||koolshare.cn
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
@@ -356,18 +376,22 @@
 
 ! L
 ||lackar.com
+||landiannews.com
 ||lany.me
 ||lanyus.com
 ||laravel-china.org
 ||lbesec.com
 ||le.com
 ||leancloud.cn
+||leju.com
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
 ||liaoxuefeng.com
+||liepin.com
+||likuso.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
@@ -376,6 +400,7 @@
 ||lofter.com
 ||lolinet.com
 ||longzhu.com
+||lotpc.com
 ||lucifr.com
 ||luojuly.cn
 ||luoo.net
@@ -383,6 +408,7 @@
 ||lyjsws.com
 
 ! M
+||mafengwo.cn
 ||mail4geek.com
 ||maoyan.com
 ||masadora.net
@@ -452,6 +478,7 @@
 ||phonegap100.com
 ||phpcomposer.com
 ||pingwest.com
+||pixcn.cn
 ||playubuntu.cn
 ||plu.cn
 ||pptv.com
@@ -464,6 +491,7 @@
 ||qcwgg.com
 ||qdaily.com
 ||qdan.me
+||qeeyou.cn
 ||qeeyou.com
 ||qhimg.com
 ||qhmsg.com
@@ -474,6 +502,7 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiyipic.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -553,6 +582,7 @@
 ||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
+||testv.cn
 ||tgbus.com
 ||thepaper.cn
 ||thinkphp.cn
@@ -587,6 +617,7 @@
 ||ustclug.org
 ||uuu.moe
 ||uxengine.net
+||uzer.me
 
 ! V
 ||v2ex.com
@@ -645,6 +676,7 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yiban.cn
 ||yiche.com
 ||yinxiang.com
 ||ykimg.com
@@ -660,6 +692,7 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zealer.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
@@ -668,8 +701,10 @@
 ||zhihu.com
 ||zhimg.com
 ||zhiziyun.com
+||zhsho.com
 ||zhujike.com
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zontay.cn
 ||zuk.cn
