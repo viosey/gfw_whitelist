@@ -67,6 +67,8 @@
 ||56.com
 ||58.com
 ||58pic.com
+||5eplay.com
+||5ewin.com
 
 ! 6
 ||6.cn
@@ -82,6 +84,7 @@
 ||91.com
 
 ! A
+||abchina.com
 ||acfun.cn
 ||acfun.tv
 ||acg.tv
@@ -125,11 +128,13 @@
 ||baidustatic.com
 ||bankcomm.com
 ||baozoumanhua.com
+||basechem.org
 ||battlenet.com.cn
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||biaozhuns.com
 ||bilibili.com
 ||biligame.com
 ||biligame.net
@@ -148,6 +153,7 @@
 
 ! C
 ||cachemoment.com
+||caixin.com
 ||cas.cn
 ||cctv.com
 ||cdn.jsdelivr.net
@@ -159,6 +165,8 @@
 ||ce.cn
 ||ceair.com
 ||cee.network
+||ch.com
+||changba.com
 ||china.com
 ||chinassl.net
 ||chinaunix.net
@@ -182,6 +190,7 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||cqvip.com
 ||csair.com
 ||csdn.net
 ||csdnimg.cn
@@ -244,6 +253,7 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||gaokao.com
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -276,6 +286,7 @@
 ||huanqiu.com
 ||huawei.com
 ||huomao.com
+||huomaotv.cn
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -310,6 +321,7 @@
 ||iplaysoft.com
 ||iqing.in
 ||iqiyi.com
+||iqiyipic.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -334,6 +346,7 @@
 ||jisuanke.com
 ||jomodns.com
 ||joyyang.com
+||jstor.org
 
 ! K
 ||kafan.cn
@@ -345,6 +358,7 @@
 ||knownsec.com
 ||krspace.cn
 ||ku6.com
+||kuaidi100.com
 ||kuaizhan.com
 
 ! L
@@ -419,6 +433,7 @@
 ||nga.cn
 ||ngacn.cc
 ||nuomi.com
+||nutrition.org
 ||nvidia.cn
 
 ! O
@@ -437,6 +452,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||pangu.io
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
@@ -466,6 +482,8 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiyi.com
+||qiyipic.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -494,14 +512,17 @@
 ||sandai.net
 ||sarm.net
 ||sb.sb
+||scichina.com
 ||sciencedirect.com
 ||sciencemag.org
 ||sciencenet.cn
+||scorecardresearch.com
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
 ||sensorsdata.cn
 ||sf-express.com
+||shanbay.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
@@ -520,7 +541,9 @@
 ||smzdm.com
 ||so.com
 ||sogou.com
+||sogoucdn.com
 ||sohu.com
+||sohucs.com
 ||soku.com
 ||songshuhui.net
 ||soso.com
@@ -598,6 +621,7 @@
 ||waerfa.com
 ||wandoujia.com
 ||wanmei.com
+||wanplus.com
 ||webofknowledge.com
 ||weibo.com
 ||weidunewtab.com
@@ -617,6 +641,7 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaomi.com
+||ximalaya.com
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
