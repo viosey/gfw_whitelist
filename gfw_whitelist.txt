@@ -291,6 +291,7 @@
 ||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
+||hjenglish.com
 ||hostker.com
 ||huaban.com
 ||huanmusic.com
@@ -709,7 +710,7 @@
 ||zhimg.com
 ||zhiziyun.com
 ||zhujike.com
-||zimuzu.tv
+||zimuzu.io
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
