@@ -145,6 +145,7 @@
 ||blizzardgames.cn
 ||blogjava.net
 ||boc.cn
+||bookfere.com
 ||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
@@ -179,6 +180,7 @@
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
+||cn.engadget.com
 ||cnbeta.com
 ||cnblogs.com
 ||cnki.net
@@ -199,6 +201,7 @@
 ||css.net
 ||css.network
 ||ct10000.com
+||ctfile.com
 ||ctrip.com
 
 ! D
@@ -231,12 +234,15 @@
 ||duoshuo.com
 ||duowan.com
 ||dwstatic.com
+||dxy.cn
+||dxycdn.com
 ||dygod.net
 
 ! E
 ||eastmoney.com
 ||eeboard.com
 ||elemecdn.com
+||els-cdn.com
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
@@ -257,6 +263,8 @@
 ||ganji.com
 ||gank.io
 ||gaokao.com
+||gbw-china.com
+||gbw365.com
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -340,6 +348,7 @@
 ||jb51.net
 ||jcodecraeer.com
 ||jd.com
+||jd.hk
 ||jfrft.com
 ||jhdec.com
 ||jianguoyun.com
@@ -471,6 +480,7 @@
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
+||pnas.org
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -570,6 +580,7 @@
 ! T
 ||t.tt
 ||tanx.com
+||tansoole.com
 ||taobao.com
 ||taobaocdn.com
 ||tbcdn.cn
@@ -581,6 +592,7 @@
 ||thepaper.cn
 ||thinkphp.cn
 ||thomsonreuters.com
+||tianxun.com
 ||tianya.cn
 ||tietuku.com
 ||tigerlust.com
@@ -642,6 +654,7 @@
 ||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
+||wolcavi.com
 ||woyoo.com
 
 ! X
@@ -686,6 +699,7 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zdfans.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
