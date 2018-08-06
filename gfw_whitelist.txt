@@ -139,7 +139,7 @@
 ||bilibili.com
 ||biligame.com
 ||biligame.net
-@@||bing.com
+||bing.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
