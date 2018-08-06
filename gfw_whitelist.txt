@@ -67,6 +67,8 @@
 ||56.com
 ||58.com
 ||58pic.com
+||5eplay.com
+||5ewin.com
 
 ! 6
 ||6.cn
@@ -82,6 +84,7 @@
 ||91.com
 
 ! A
+||abchina.com
 ||acfun.cn
 ||acfun.tv
 ||acg.tv
@@ -126,11 +129,13 @@
 ||baidustatic.com
 ||bankcomm.com
 ||baozoumanhua.com
+||basechem.org
 ||battlenet.com.cn
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||biaozhuns.com
 ||bilibili.com
 ||biligame.com
 ||biligame.net
@@ -140,6 +145,7 @@
 ||blizzardgames.cn
 ||blogjava.net
 ||boc.cn
+||bookfere.com
 ||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
@@ -150,6 +156,7 @@
 
 ! C
 ||cachemoment.com
+||caixin.com
 ||cas.cn
 ||cctv.com
 ||cdn.jsdelivr.net
@@ -161,6 +168,8 @@
 ||ce.cn
 ||ceair.com
 ||cee.network
+||ch.com
+||changba.com
 ||china.com
 ||chinassl.net
 ||chinaunix.net
@@ -171,6 +180,7 @@
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
+||cn.engadget.com
 ||cnbeta.com
 ||cnblogs.com
 ||cnki.net
@@ -184,12 +194,14 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||cqvip.com
 ||csair.com
 ||csdn.net
 ||csdnimg.cn
 ||css.net
 ||css.network
 ||ct10000.com
+||ctfile.com
 ||ctrip.com
 
 ! D
@@ -222,12 +234,15 @@
 ||duoshuo.com
 ||duowan.com
 ||dwstatic.com
+||dxy.cn
+||dxycdn.com
 ||dygod.net
 
 ! E
 ||eastmoney.com
 ||eeboard.com
 ||elemecdn.com
+||els-cdn.com
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
@@ -247,6 +262,9 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||gaokao.com
+||gbw-china.com
+||gbw365.com
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -273,11 +291,14 @@
 ||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
+||hjenglish.com
 ||hostker.com
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huomao.com
+||huomaotv.cn
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -314,6 +335,7 @@
 ||iplaysoft.com
 ||iqing.in
 ||iqiyi.com
+||iqiyipic.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -327,6 +349,7 @@
 ||jb51.net
 ||jcodecraeer.com
 ||jd.com
+||jd.hk
 ||jfrft.com
 ||jhdec.com
 ||jianguoyun.com
@@ -339,6 +362,7 @@
 ||jisuanke.com
 ||jomodns.com
 ||joyyang.com
+||jstor.org
 
 ! K
 ||kafan.cn
@@ -352,6 +376,7 @@
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
+||kuaidi100.com
 ||kuaizhan.com
 
 ! L
@@ -426,6 +451,7 @@
 ||nga.cn
 ||ngacn.cc
 ||nuomi.com
+||nutrition.org
 ||nvidia.cn
 
 ! O
@@ -445,6 +471,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||pangu.io
 ||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
@@ -454,6 +481,7 @@
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
+||pnas.org
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -474,6 +502,8 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiyi.com
+||qiyipic.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -502,14 +532,17 @@
 ||sandai.net
 ||sarm.net
 ||sb.sb
+||scichina.com
 ||sciencedirect.com
 ||sciencemag.org
 ||sciencenet.cn
+||scorecardresearch.com
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
 ||sensorsdata.cn
 ||sf-express.com
+||shanbay.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
@@ -528,7 +561,9 @@
 ||smzdm.com
 ||so.com
 ||sogou.com
+||sogoucdn.com
 ||sohu.com
+||sohucs.com
 ||soku.com
 ||songshuhui.net
 ||soso.com
@@ -546,6 +581,7 @@
 ! T
 ||t.tt
 ||tanx.com
+||tansoole.com
 ||taobao.com
 ||taobaocdn.com
 ||tbcdn.cn
@@ -557,6 +593,7 @@
 ||thepaper.cn
 ||thinkphp.cn
 ||thomsonreuters.com
+||tianxun.com
 ||tianya.cn
 ||tietuku.com
 ||tigerlust.com
@@ -607,6 +644,7 @@
 ||waerfa.com
 ||wandoujia.com
 ||wanmei.com
+||wanplus.com
 ||webofknowledge.com
 ||weibo.com
 ||weidunewtab.com
@@ -617,6 +655,7 @@
 ||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
+||wolcavi.com
 ||woyoo.com
 
 ! X
@@ -626,6 +665,7 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaomi.com
+||ximalaya.com
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
@@ -660,6 +700,7 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zdfans.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
@@ -669,7 +710,7 @@
 ||zhimg.com
 ||zhiziyun.com
 ||zhujike.com
-||zimuzu.tv
+||zimuzu.io
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
