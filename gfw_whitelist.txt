@@ -323,6 +323,7 @@
 ||itellyou.cn
 ||iteye.com
 ||ithome.com
+||ijinshan.com
 
 ! J
 ||j.cn
@@ -357,6 +358,7 @@
 ||ksyun.com
 ||ku6.com
 ||kuaizhan.com
+||kingsoft.com
 
 ! L
 ||lackar.com
