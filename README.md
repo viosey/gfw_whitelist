@@ -2,7 +2,7 @@
 
 The GFW whitelist of AutoProxy format.
 
-gfw_whitelist URL: [https://raw.githubusercontent.com/neko-dev/gfw_whitelist/master/gfw_whitelist.txt](https://raw.githubusercontent.com/neko-dev/gfw_whitelist/master/gfw_whitelist.txt)
+gfw_whitelist URL: [https://raw.githubusercontent.com/Genius-pig/gfw_whitelist/master/gfw_whitelist.txt](https://raw.githubusercontent.com/Genius-pig/gfw_whitelist/master/gfw_whitelist.txt)
 
 ## Usagage of gfw_whitelist
 
