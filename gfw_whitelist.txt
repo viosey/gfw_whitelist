@@ -192,6 +192,7 @@
 ||css.network
 ||ct10000.com
 ||ctrip.com
+||chaoxing.com
 
 ! D
 ||d7vg.com
