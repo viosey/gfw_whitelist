@@ -25,6 +25,7 @@
 ! 1
 ||10010.com
 ||10086.cn
+||10besty.com
 ||114la.com
 ||115.com
 ||126.com
@@ -92,6 +93,7 @@
 ||acs.org
 ||aday01.com
 ||adf.ly
+||admflt.com
 ||aicheren.com
 ||aipai.com
 ||aiwebcom.com
@@ -110,6 +112,7 @@
 ||aliyuncs.com
 ||amap.com
 ||amazon.cn
+||anjian.com
 ||anjuke.com
 ||anquan.org
 ||anzhi.com
@@ -156,6 +159,7 @@
 ||cachemoment.com
 ||cas.cn
 ||cctv.com
+||cdjky.com
 ||cdn.jsdelivr.net
 ||cdnbee.com
 ||cdndm.com
@@ -166,12 +170,14 @@
 ||ceair.com
 ||cee.network
 ||china.com
+||chinanews.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
 ||chiphell.com
 ||chsi.com.cn
 ||chuangzaoshi.com
+||chuapp.com
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
@@ -269,6 +275,7 @@
 ||h2os.com
 ||hacpai.com
 ||halyul.cc
+||hankcs.com
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
@@ -280,6 +287,8 @@
 ||hitokoto.cn
 ||hiwifi.com
 ||hostker.com
+||houxu.app
+||houxuapp.com
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
@@ -294,6 +303,7 @@
 ||huxiu.com
 ||hxjyb.com
 ||hy233.tv
+||hypergryph.com
 
 ! I
 ||i-meto.com
@@ -335,6 +345,7 @@
 ||jb51.net
 ||jcodecraeer.com
 ||jd.com
+||jdyou.com
 ||jfrft.com
 ||jhdec.com
 ||jianguoyun.com
@@ -346,6 +357,7 @@
 ||jinshuju.net
 ||jisuanke.com
 ||jomodns.com
+||joyme.com
 ||joyyang.com
 
 ! K
@@ -370,6 +382,7 @@
 ||lanzous.com
 ||laravel-china.org
 ||lbesec.com
+||ldmnq.com
 ||le.com
 ||leancloud.cn
 ||lenovo.com.cn
@@ -425,6 +438,7 @@
 ||mokeedev.com
 ||momentcdn.com
 ||msftconnecttest.com
+||mtime.com
 ||mtyun.com
 ||muchong.com
 ||mukewang.com
@@ -451,6 +465,7 @@
 ||oneplus.cn
 ||oneplusbbs.com
 ||onlinedown.net
+||ooklaserver.net
 ||open-open.com
 ||ops.moe
 ||oray.com
@@ -471,6 +486,7 @@
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
+||poj.org
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
@@ -498,6 +514,7 @@
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
+||qschou.com
 ||qunar.com
 
 ! R
@@ -548,6 +565,7 @@
 ||sogou.com
 ||sohu.com
 ||soku.com
+||solidot.org
 ||songshuhui.net
 ||soso.com
 ||soufun.com
@@ -581,6 +599,8 @@
 ||thinkphp.cn
 ||thomsonreuters.com
 ||tianya.cn
+||tianyancha.com
+||tieba.com
 ||tietuku.com
 ||tigerlust.com
 ||tingyun.com
@@ -604,6 +624,7 @@
 ||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
+||uoj.ac
 ||upaiyun.com
 ||upyun.com
 ||ustc.edu.cn
